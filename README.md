@@ -33,8 +33,8 @@ The game has a map containing 16 adjacent villages, laid out in a grid. Each vil
 
 ## <a name="future"></a>The Future of Villages of Doom
 Possible future features:
-* A browser-based user interface
-* 
+* A browser-based user interface with graphics
+* A larger map containing more items than the current map
 
 The goal would be to make this a more fully-featured game.
 
