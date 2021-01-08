@@ -25,7 +25,7 @@ Upon initiating the game, the user sees this message, "You accidentally stepped 
 The user can make choices and move around the map by typing into the command line in response to the game's prompts. 
 
 #### Navigating the map
-The game has a map containing 16 adjacent villages, laid out in a grid. Each village contains items that the user can interact with. The user needs to figure out which items will help him/her escape the villages and return home. Once the user collects all of the "right" items in his/her bag, the game is won.
+The game has a map containing 16 adjacent villages, laid out in a grid. Each village contains items that the user can interact with. The user needs to figure out which items will help him/her escape the villages and return home. If the user collects all of the necessary items in his/her bag before their units of life run out, the game is won and the user sees this message, "Your bag starts rumbling and the rocks rise into the air and form a circle which gets larger and turns into a portal! You step through and find yourself in your own backyard again!"
 
 
 ## <a name="future"></a>The Future of Villages of Doom
