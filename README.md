@@ -9,7 +9,7 @@ Lani graduated from Stanford University with a B.S. in Industrial Engineering an
 
 ## Contents
 * [Tech Stack](#tech-stack)
-* [Features](#features)
+* [Playing the Game](#playing-the-game)
 * [Future Features](#future)
 * [Installation](#installation)
 * [License](#license)
@@ -17,7 +17,7 @@ Lani graduated from Stanford University with a B.S. in Industrial Engineering an
 ## <a name="tech-stack"></a>Technologies
 * Python
 
-## <a name="features"></a>Features
+## <a name="playing-the-game"></a>Playing the Game
 
 #### Introduction to the game
 Upon initiating the game, the user sees this message, "You accidentally stepped through a portal while playing with rocks in your backyard--you've found yourself in a forested area containing villages. You are searching for the portal to get home. You have 25 units of life and you are in village 6. Your goal is to find the portal before your life ends."
