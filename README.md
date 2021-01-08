@@ -1,14 +1,11 @@
 ## Project Intro
 Villages of Doom was a project I built during Hackbright's Python 101 course during summer 2020. I was inspired to create this project to bring joy to players, young and old. In addition, building the game allowed me to practice creating functions and using Python data structures such as dictionaries. 
 
-I wrote this program using Python and it's currently implemented using the command line interface.
+This program is written in Python and it's currently implemented using the command line interface.
 
 ## About the Developer
 Lani graduated from Stanford University with a B.S. in Industrial Engineering and a M.A. in Sociology with a focus on "Organizations, Business and the Economy." She worked in real estate private equity investing in New York for several years and grew determined to help modernize the industry. She joined a startup in San Francisco building an online investment marketplace and became a product manager. She later joined a B2B SaaS company selling a CRM, an end-user portal, and investment management products. In her Product Management roles, Lani enjoyed deciding which products to build and why, but she grew increasingly interested in how to build the products, which led her to software engineering.
 
-
-## Deployment
-Not browser-based at this time.
 
 ## Contents
 * [Tech Stack](#tech-stack)
